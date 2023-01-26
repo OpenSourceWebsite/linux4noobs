@@ -19,7 +19,7 @@ Aqui temos a distro linux Kubuntu que usa o ambiente de desktop [KDE](https://pt
 ![Kubuntu KDE](https://www.edivaldobrito.com.br/wp-content/uploads/2019/04/kubuntu-1904-lancado.jpg?ezimgfmt=ng:webp/ngcb2)
 
 > **Note**
-> Vale ressaltar aqui que não existem apenas esses dois ambiente gráficos que demos como exemplo, existem vários tipos de ambientes gráficos e com diversas opções que você pode escolher, preferir, desejar e ter para uma ou mais distros linux. 
+> Vale ressaltar aqui que não existem apenas esses dois ambientes gráficos que citamos - existem vários tipos de ambientes gráficos e com diversas opções que você pode escolher, preferir, desejar e ter para uma ou mais distros linux. 
 
 > **Note**
 > Vale ressaltar que o ambiente gráfico no linux pode também comumentemente chamada de "ambiente de desktop", "desktop-environment". 
