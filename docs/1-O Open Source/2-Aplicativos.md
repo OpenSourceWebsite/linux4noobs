@@ -22,7 +22,7 @@ Aqui temos a distro linux Kubuntu que usa o ambiente de desktop [KDE](https://pt
 > Vale ressaltar aqui que não existem apenas esses dois ambientes gráficos que citamos - existem vários tipos de ambientes gráficos e com diversas opções que você pode escolher, preferir, desejar e ter para uma ou mais distros linux. 
 
 > **Note**
-> Vale ressaltar que o ambiente gráfico no linux pode também comumentemente chamada de "ambiente de desktop", "desktop-environment". 
+> Vale ressaltar que o ambiente gráfico no linux pode também comumentemente ser chamado de "ambiente de desktop", "desktop-environment". 
 
 > **Note**
 > O que muda de ambiente gráfico para o outro ambiente gráfico é o seu público-alvo ou a comunidade ao qual ele é suportado, mantido, atualizado ou mais ou menos utilizado. Assim como, os recursos, programas ou componentes disponíveis ou associados nele. Assim como, a licença ao qual ele é feito, mantido, desenvolvido ou criado. Uma questão muito importante na escolha de ambiente gráfico além da licença, comunidade ou público-alvo é a ideia da experiência de usuário, a ideia se o ambiente gráfico é mais ou menos utilizável(fácil de utilizar) varia muito de pessoa para pessoa. Haja vista que, cada ambiente de desktop contém vários aplicativos prontos para você usar que podem ser fáceis ou difícies para você no sentido de experiência de uso, conhecimento geral.
