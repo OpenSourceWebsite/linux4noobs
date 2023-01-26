@@ -6,7 +6,7 @@ O nosso foco vai ser em aplicações OpenSource, mas várias dessas aplicações
 
 ## Ambientes Gráficos
 
-Uma das coisas que vai diferenciar bastante o Linux de outros sistemas operacionais é a possibilidade de você poder personalizar o seu sistema da maneria que você gosta. Um bom exemplo disso, é que cada versão do linux (ou também comumentemente chamada de "distro linux") utiliza um ou mais ambientes gráficos. Esses, por sua vez, permite que você customize, escolha, modifique determinados componentes ou recursos para uma melhor aparência, performance, segurança, privacidade, controle. O ambiente gráfico no linux é um bom caso de uso e uma possibilidade real se você gosta da ideia de personalizar o seu sistema da maneria que você gosta, quer, prefere, deseja. De modo geral, um ambiente gráfico nada mais é do que um software feito para facilitar e tornar prática a utilização do computador por meio de uma representação visual. Para um exemplo mais prático e didático desse tópico/conceito abaixo existem alguns exemplos:
+Uma das coisas que vai diferenciar bastante o Linux de outros sistemas operacionais é a possibilidade de você poder personalizar o seu sistema da maneria que você gosta. Um bom exemplo disso, é que cada versão do linux (ou também comumentemente chamada de "distro linux") utiliza um ou mais ambientes gráficos. Esses, por sua vez, permite que você customize, escolha, modifique determinados componentes ou recursos para uma melhor aparência, performance, segurança, privacidade, controle. O ambiente gráfico no linux é um bom caso de uso e uma possibilidade real se você gosta da ideia de personalizar o seu sistema da maneria que você gosta, quer, prefere ou deseja. De modo geral, um ambiente gráfico nada mais é do que um software feito para facilitar e tornar prática a utilização do computador por meio de uma representação visual. Para um exemplo mais prático e didático desse tópico/conceito abaixo existem alguns exemplos:
 
 ### UBUNTU
 Aqui temos a distribuição linux Ubuntu que usa o ambiente de desktop [GNOME](https://pt.wikipedia.org/wiki/GNOME).
@@ -18,8 +18,17 @@ Aqui temos a distro linux Kubuntu que usa o ambiente de desktop [KDE](https://pt
 
 ![Kubuntu KDE](https://www.edivaldobrito.com.br/wp-content/uploads/2019/04/kubuntu-1904-lancado.jpg?ezimgfmt=ng:webp/ngcb2)
 
+> **Note**
+> Vale ressaltar aqui que não existem apenas esses dois ambiente gráficos que demos como exemplo, existem vários tipos de ambientes gráficos e com diversas opções que você pode escolher, preferir, desejar e ter para uma ou mais distros linux. 
 
-E aqui nos temos um ponto para você escolher o Pinguim como seu ambiente desktop, ele é altamente customizado, você consegue fazer tudo da sua maneira, e também ele já vem com vários aplicativos prontos para você usar, os quais vamos citar agora.
+> **Note**
+> Vale ressaltar que o ambiente gráfico no linux pode também comumentemente chamada de "ambiente de desktop", "desktop-environment". 
+
+> **Note**
+> O que muda de ambiente gráfico para o outro ambiente gráfico é o seu público-alvo ou a comunidade ao qual ele é suportado, mantido, atualizado ou mais ou menos utilizado. Assim como, os recursos, programas ou componentes disponíveis ou associados nele. Assim como, a licença ao qual ele é feito, mantido, desenvolvido ou criado. Uma questão muito importante na escolha de ambiente gráfico além da licença, comunidade ou público-alvo é a ideia da experiência de usuário, a ideia se o ambiente gráfico é mais ou menos utilizável(fácil de utilizar) varia muito de pessoa para pessoa. Haja vista que, cada ambiente de desktop contém vários aplicativos prontos para você usar que podem ser fáceis ou difícies para você no sentido de experiência de uso, conhecimento geral.
+
+> **Warning**
+> Aqui percebemos de modo geral dois tipos de ambientes gráficos em duas distribuições linux. Assim como, compreendemos e entendemos de forma geral o conceito/tópico "ambiente gráfico". Além disso, adicionamos informações úteis e complementares para uma breve consulta, pesquisa inicial. Daqui para frente, veremos sobre os programas de cada ambiente de desktop(também comumentemente chamado de "ambiente de desktop", "desktop-environment").
 
 ## Escritório 
 
