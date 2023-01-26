@@ -23,11 +23,11 @@ Já o Kubuntu usa o [KDE](https://pt.wikipedia.org/wiki/KDE).
 ![Kubuntu KDE](https://www.edivaldobrito.com.br/wp-content/uploads/2019/04/kubuntu-1904-lancado.jpg?ezimgfmt=ng:webp/ngcb2)
 
 
-E aqui nos temos um ponto para você escolher o Pinguim como seu ambiente desktop, ele é altamente customizado, você consegue fazer tudo da sua maneira, e também ele já vem com varios aplicativos prontos para você usar, os quais vamos citar agora.
+E aqui nos temos um ponto para você escolher o Pinguim como seu ambiente desktop, ele é altamente customizado, você consegue fazer tudo da sua maneira, e também ele já vem com vários aplicativos prontos para você usar, os quais vamos citar agora.
 
 ## Escritório 
 
-Os pacotes de escritório são provavelmente o que um usuario comum vai buscar de um Desktop Linux, mas uma das coisas que mais afastas as pessoas do mundo Linux é o fato de não terem certos aplicativos de maneira nativa para ele, aqui nos poderíamos citar o famoso Microsoft Office, mas o pinguim não fica para tras e também apresentar otimas soluções para quem procura um pacote de aplicativos para escritório, as alternativas mais famosas são:
+Os pacotes de escritório são provavelmente o que um usuário comum vai buscar de um Desktop Linux, mas uma das coisas que mais afastas as pessoas do mundo Linux é o fato de não terem certos aplicativos de maneira nativa para ele, aqui nos poderíamos citar o famoso Microsoft Office, mas o pinguim não fica para tras e também apresentar otimas soluções para quem procura um pacote de aplicativos para escritório, as alternativas mais famosas são:
 
 * [Libre Office](https://pt-br.libreoffice.org/)
 * [WPS Office](https://www.wps.com/pt-BR/)
@@ -42,7 +42,7 @@ Pode se dizer que ele é o "PhotoShop" do Linux, é excelente para edições de 
 
 ### [Inkscape](https://inkscape.org/pt-br/)
 
-O Inkscape é a alternativa para o Adobe Illustrator, totalmente OpenSource. Uma otima alternativa para você que quer mostrar seu lado artistico para o mundo.
+O Inkscape é a alternativa para o Adobe Illustrator, totalmente OpenSource. Uma ótima alternativa para você que quer mostrar seu lado artistico para o mundo.
 
 ### [Audacity](https://www.audacityteam.org/)
 
@@ -62,7 +62,7 @@ O Apache ou HTTP Daemon Apache, é um servidor web open source criado em 1995.
 
 ### [PostgresSQL](https://www.postgresql.org/)
 
-Existem varios bancos de dados para o Linux, um dos mais famosos e o meu xodó é o Postgres.
+Existem vários bancos de dados para o Linux, um dos mais famosos e o meu xodó é o Postgres.
 
 ## Conclusão
 
