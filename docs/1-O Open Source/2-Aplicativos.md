@@ -9,16 +9,12 @@ O nosso foco vai ser em aplicações OpenSource, mas várias dessas aplicações
 Uma das coisas que vai diferenciar bastante o Linux de outros sistemas operacionais é a possibilidade de você poder personalizar o seu sistema da maneria que você gosta. Por exemplo, existem vários ambientes gráficos que você pode escolher, customizar ou até mesmo "fazer do seu jeito". Em um grande resumo, o ambiente gráfico é a "cara" do seu sistema, abaixo segue alguns exemplos:
 
 ### UBUNTU
-
-Abaixo por exemplo, nos temos o Ubuntu que usa o [GNOME](https://pt.wikipedia.org/wiki/GNOME).
+Aqui temos a distribuição linux: Ubuntu que usa o ambiente de desktop [GNOME](https://pt.wikipedia.org/wiki/GNOME).
 
 ![Ubuntu Gnome](https://upload.wikimedia.org/wikipedia/commons/7/72/Ubuntu-19.10-cat.png)
 
 ### KUBUNTU
-
-~~O Bill Gates gosta desse
-
-Já o Kubuntu usa o [KDE](https://pt.wikipedia.org/wiki/KDE).
+Aqui temos a distro linux: Kubuntu que usa o ambiente de desktop [KDE](https://pt.wikipedia.org/wiki/KDE).
 
 ![Kubuntu KDE](https://www.edivaldobrito.com.br/wp-content/uploads/2019/04/kubuntu-1904-lancado.jpg?ezimgfmt=ng:webp/ngcb2)
 
