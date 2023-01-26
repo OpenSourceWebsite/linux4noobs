@@ -60,9 +60,9 @@ Aqui nos começamos a voltar mais para o mundo do desenvolvimento, o Linux é mu
 
 O Apache ou HTTP Daemon Apache, é um servidor web open source criado em 1995.
 
-### [PostgreSQL](https://www.postgresql.org/)
+### [PostgresSQL](https://www.postgresql.org/)
 
-Existem varios bancos de dados para o Linux, um dos mais famosos e o meu xodó é o Postgre.
+Existem varios bancos de dados para o Linux, um dos mais famosos e o meu xodó é o Postgres.
 
 ## Conclusão
 
