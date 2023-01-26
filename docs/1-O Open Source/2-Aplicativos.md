@@ -27,7 +27,7 @@ E aqui nos temos um ponto para você escolher o Pinguim como seu ambiente deskto
 
 ## Escritório 
 
-Os pacotes de escritório são provavelmente o que um usuario comum vai buscar de um Desktop Linux, mas uma das coisas que mais afastas as pessoas do mundo Linux é o fato de não terem certos aplicativos de maneira nativa para ele, aqui nos poderiamos citar o famoso Microsoft Office, mas o pinguim não fica para tras e também apresentar otimas soluções para quem procura um pacote de aplicativos para escritório, as alternativas mais famosas são:
+Os pacotes de escritório são provavelmente o que um usuario comum vai buscar de um Desktop Linux, mas uma das coisas que mais afastas as pessoas do mundo Linux é o fato de não terem certos aplicativos de maneira nativa para ele, aqui nos poderíamos citar o famoso Microsoft Office, mas o pinguim não fica para tras e também apresentar otimas soluções para quem procura um pacote de aplicativos para escritório, as alternativas mais famosas são:
 
 * [Libre Office](https://pt-br.libreoffice.org/)
 * [WPS Office](https://www.wps.com/pt-BR/)
@@ -54,7 +54,7 @@ Desse aqui você provavelmente já ouviu falar, um dos programas mais conhecidos
 
 ## Internet
 
-Aqui nos começamos a voltar mais para o mundo do desenvolvimento, o Linux é muito usado como um servidor Web, e é claro que nesse caso não poderiamos deixar de falar sobre:
+Aqui nos começamos a voltar mais para o mundo do desenvolvimento, o Linux é muito usado como um servidor Web, e é claro que nesse caso não poderíamos deixar de falar sobre:
 
 ### [Apache](https://www.apache.org/)
 
