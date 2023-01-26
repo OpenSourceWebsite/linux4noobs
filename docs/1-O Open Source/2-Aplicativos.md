@@ -6,7 +6,9 @@ O nosso foco vai ser em aplicações OpenSource, mas várias dessas aplicações
 
 ## Ambientes Gráficos
 
-Uma das coisas que vai diferenciar bastante o Linux de outros sistemas operacionais é a possibilidade de você poder personalizar o seu sistema da maneria que você gosta. Um bom exemplo disso, é que cada versão do linux (ou também comumentemente chamada de "distro linux") utiliza um ou mais ambientes gráficos. Esses, por sua vez, permite que você customize, escolha, modifique determinados componentes ou recursos para uma melhor aparência, performance, segurança, privacidade, controle. O ambiente gráfico no linux é um bom caso de uso e uma possibilidade real se você gosta da ideia de personalizar o seu sistema da maneria que você gosta, quer, prefere ou deseja. De modo geral, um ambiente gráfico nada mais é do que um software feito para facilitar e tornar prática a utilização do computador por meio de uma representação visual. Para um exemplo mais prático e didático desse tópico/conceito abaixo existem alguns exemplos:
+Uma das coisas que vai diferenciar bastante o Linux de outros sistemas operacionais é a possibilidade de você poder personalizar o seu sistema da maneria que você gosta. Um bom exemplo disso, é que cada versão do linux (ou também comumentemente chamada de "distro linux") utiliza um ou mais ambientes gráficos(esses por sua vez, permitem que você customize, escolha, modifique determinados componentes ou recursos para uma melhor aparência, performance, segurança, privacidade, controle). 
+
+O ambiente gráfico no linux é um bom caso de uso e uma possibilidade real se você gosta da ideia de personalizar o seu sistema da maneria que você gosta, quer, prefere ou deseja. De modo geral, um ambiente gráfico nada mais é do que um software feito para facilitar e tornar prática a utilização do computador por meio de uma representação visual. Para um exemplo mais prático e didático desse tópico/conceito abaixo existem alguns exemplos:
 
 ### UBUNTU
 Aqui temos a distribuição linux Ubuntu que usa o ambiente de desktop [GNOME](https://pt.wikipedia.org/wiki/GNOME).
