@@ -1,4 +1,4 @@
-# linux4noobs1
+# linux4noobs
 código do site linux4noobs
 
 ## Screenshot
