@@ -6,7 +6,7 @@ O nosso foco vai ser em aplicações OpenSource, mas várias dessas aplicações
 
 ## Ambientes Gráficos
 
-Uma das coisas que vai diferenciar bastante o Linux de outros sistemas operacionais é a possibilidade de você poder personalizar o seu sistema da maneria que você gosta, com opções de vários ambientes gráficos e customizações. Em um grande resumo, o ambiente gráfico é a "cara" do seu Sistema, vou deixar uns exemplos abaixo.
+Uma das coisas que vai diferenciar bastante o Linux de outros sistemas operacionais é a possibilidade de você poder personalizar o seu sistema da maneria que você gosta. Por exemplo, existem vários ambientes gráficos que você pode escolher, customizar ou até mesmo "fazer do seu jeito". Em um grande resumo, o ambiente gráfico é a "cara" do seu sistema, abaixo segue alguns exemplos:
 
 ### UBUNTU
 
